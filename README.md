@@ -1,4 +1,4 @@
-microscrope_meteor
+Microscrope Meteor
 ==================
 
 Blog sederhana dengan framework meteor.js
